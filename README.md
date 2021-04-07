@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning at FIT, University of Engineering and Techlonogy, VNU
+- 🌱 I’m currently learning at FIT, University of Engineering and Techlonogy, Vietnam National University.
 
 
 <!--
