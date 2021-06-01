@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning at FIT, University of Engineering and Techlonogy, Vietnam National University.
-- 💬 Ask me about PHP, Laravel
+- 💬 Ask me about Cybersecurity
 - 📫 How to reach me: bien.uet279@gmail.com
 
 
