@@ -2,8 +2,9 @@
 
 
 - 🌱 I’m currently learning at FIT, University of Engineering and Techlonogy, Vietnam National University.
-- 💬 Ask me about Cybersecurity
-- 📫 How to reach me: bien.uet279@gmail.com
+- 💬 Ask me about Cyber Security
+- 📫 How to reach me: bien.uet279@gmail.com, ctf.d3s34@gmail.com
+- 🕮 I'm writing blog at https://ctf.d3s34.me/
 
 
 ---
@@ -21,7 +22,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working at Viettel Cyber Security
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
