@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning at FIT, University of Engineering and Techlonogy, Vietnam National University.
 - 🔭 I’m currently working at Viettel Cyber Security.
 - 💬 Ask me about Web Security.
-- 📫 How to reach me: bien.uet279@gmail.com, ctf.d3s34@gmail.com
+- 📫 How to reach me: ctf.d3s34@gmail.com
 - 🕮 I'm writing blog at https://blog.d3s34.me/, https://d3s34.me/
 
 
