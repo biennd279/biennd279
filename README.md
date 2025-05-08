@@ -3,8 +3,8 @@
 - 🔭 I’m currently working at Viettel Cyber Security.
 - 💬 Ask me about Web Security.
 - 📫 How to reach me: ctf.d3s34@gmail.com
-- 🕮 I'm writing blog at https://blog.d3s34.me/, https://d3s34.me/
-- 💕 Subject: DevSec(Ops), S-SDLC, Security Automation, Scaling Security, Automated bug finding.
+- 🕮 I'm writing a blog at https://blog.d3s34.me/
+- 💕 Subject: Security in SDLC, Scaling Security, Automated bug finding, DevSec(Ops).
 
 
 ---
