@@ -4,7 +4,7 @@
 - 💬 Ask me about Web Security.
 - 📫 How to reach me: ctf.d3s34@gmail.com
 - 🕮 I'm writing a blog at https://blog.d3s34.me/
-- 💕 Subject: Security in SDLC, Scaling Security, Automated bug finding, DevSec(Ops).
+- 💕 Subject: Application Security, Secure Software Development Lifecycle, Scaling Security, Automated bug finding, DevSec(Ops).
 
 
 ---
