@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Viettel Cyber Security.
-- 💬 Ask me about Web Security.
+- 💬 Ask me about Secure Software Lifecycle, Web Security, Application Security. 
 - 📫 How to reach me: ctf.d3s34@gmail.com
 - 🕮 I'm writing a blog at https://blog.d3s34.me/
 - 💕 Subject: Application Security, Secure Software Development Lifecycle, Scaling Security, Automated bug finding, DevSec(Ops).
